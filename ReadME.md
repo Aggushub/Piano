@@ -2,6 +2,7 @@
 
 This is a full-stack project that simulates a 12-note piano covering the 3rd octave. It includes interactive UI elements styled with CSS and dynamic sound playback using JavaScript.
 
+<img src="PWhite.png">
 ## 📁 Project Structure
 
 - `index.html` – The main structure of the piano layout.
